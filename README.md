@@ -1,5 +1,8 @@
 # Darrin DeYoung 的数值分析课堂论文
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 - **标题**：高效插值算法在实时图形渲染中的性能对比：从 Lagrange 到样条的 GPU 并行化实现
 - **作者**：Darrin DeYoung
 - **关键词**：实时图形渲染 插值算法 深度学习 性能对比 帧插值 实时性 优化
