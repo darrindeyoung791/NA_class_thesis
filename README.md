@@ -19,8 +19,8 @@
 NA_class_thesis/
 ├── docs/                   # 文档目录
 ├── res/                    # 文档目录
-│   ├── img/                # 图片资源
-|       ├── raw             # 原始图片 
+│   └── img/                # 图片资源
+|       └── raw/            # 原始图片 
 └── release/                # 最终发布文档（已在 .gitignore 中排除）
 ├── src/                    # 源代码
 │   ├── algorithms/         # 算法实现(Planned)
