@@ -25,3 +25,10 @@ NA_class_thesis/
 ├── .gitignore              # Git 忽略规则
 └── README.md               # 项目说明文档
 ```
+
+## 许可证
+
+本项目采用双重许可：
+
+- 源代码（src/目录）采用 [MIT 许可证](LICENSE-MIT)
+- 文档（docs/目录）采用 [知识共享署名-相同方式共享 4.0 国际许可证](LICENSE-CC-BY-SA)
