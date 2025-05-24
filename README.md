@@ -23,7 +23,9 @@ NA_class_thesis/
 │   └── benchmarks/         # 性能测试(Planned)
 ├── .gitattributes          # Git 属性配置
 ├── .gitignore              # Git 忽略规则
-└── README.md               # 项目说明文档
+├── README.md               # 项目说明文档
+├── LICENSE-CC-BY-SA
+└── LICENSE-MIT
 ```
 
 ## 许可证
