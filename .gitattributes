@@ -1,0 +1,7 @@
+/docs/**/*.md text
+/docs/**/*.pdf binary
+/docs/**/*.docx binary
+/docs/**/*.jpg binary
+/docs/**/*.jpeg binary
+/docs/**/*.png binary
+/docs/**/*.gif binary

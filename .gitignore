@@ -1,0 +1,62 @@
+# 忽略虚拟环境
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 忽略日志文件和临时文件
+*.log
+*.tmp
+*.swp
+*.bak
+*.orig
+*~
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 忽略配置文件（如果需要）
+# config.json
+# settings.py
+
+# 忽略测试文件
+test/
+tests/
+
+# 忽略数据文件
+data/
+datasets/
+
+# 忽略文档生成文件
+docs/build/
+docs/source/
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# 忽略其他特定文件
+*.db
+*.sqlite
+*.sqlite3
+*.sublime-workspace
+*.sublime-project
+*.ipynb_checkpoints/
