@@ -60,3 +60,6 @@ docs/_templates/
 *.sublime-workspace
 *.sublime-project
 *.ipynb_checkpoints/
+
+# 忽略最终发布内容，因其中包含真实个人信息
+release/
