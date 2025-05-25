@@ -20,14 +20,14 @@ NA_class_thesis/
 ├── docs/                   # 文档目录
 ├── res/                    # 文档目录
 │   └── img/                # 图片资源
-│        └── raw/           # 原始图片 
+│       └── raw/            # 原始图片 
 ├── release/                # 最终发布文档（已在 .gitignore 中排除）
 ├── src/                    # 源代码
-│   ├── algorithms/         # 算法实现(Planned)
-│   └── benchmarks/         # 性能测试(Planned)
-├── .gitattributes          # Git 属性配置
-├── .gitignore              # Git 忽略规则
-├── README.md               # 项目说明文档
+│   ├── algorithms/         # 算法实现（Planned）
+│   └── benchmarks/         # 性能测试（Planned）
+├── .gitattributes
+├── .gitignore
+├── README.md
 ├── LICENSE-CC-BY-SA
 └── LICENSE-MIT
 ```
